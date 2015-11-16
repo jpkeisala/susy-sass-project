@@ -1,0 +1,10 @@
+.DS_Store
+.sass-cache
+.classpath
+.project
+*.log*
+.sass-cache/
+*.css.map
+# Ignore CSS & Map File
+*.css
+*.map
